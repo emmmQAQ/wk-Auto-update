@@ -6,5 +6,5 @@ workers_dev = true
 kv_namespaces = [
   { binding = "kv", id = "5766fc557fe84dfbbd9146ddd8560f3d" }
 ]
-TR_PASS = "2827659342"
+TR_PASS = "123456"
 UUID = "ba01b205-b522-4213-9383-4030975d1481"
